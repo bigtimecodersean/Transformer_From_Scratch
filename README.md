@@ -8,6 +8,6 @@ We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the 
 
 The goal for the project is to: 
 - define a decoder transformer architecture 
-- - train on the WikiText dataset  
-- - Generate infinite Wikipedia-like text 
+- train on the WikiText dataset  
+- Generate infinite Wikipedia-like text 
 
